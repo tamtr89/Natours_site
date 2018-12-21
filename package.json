@@ -18,5 +18,8 @@
   "homepage": "https://github.com/tamtr89/Natours_site#readme",
   "devDependencies": {
     "node-sass": "^4.10.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
   }
 }
