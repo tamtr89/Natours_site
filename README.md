@@ -95,7 +95,7 @@ Natours is a fluid layout website made using HTML5, CSS3, and SASS.
 ### Acknowledgement
 This project was part of the advanced CSS course by Jonas Schmedtmann from Udemy. 
 
-# 😃 Thank you for watching!
+# 😃 Thank you for visiting!
 
 * [LinkedIn](https://www.linkedin.com/in/tam-tran-2b1296142/) - My Profile
 
