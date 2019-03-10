@@ -97,6 +97,5 @@ This project was part of the advanced CSS course by Jonas Schmedtmann from Udemy
 
 # 😃 Thank you for visiting!
 
-* [LinkedIn](https://www.linkedin.com/in/tam-tran-2b1296142/) - My Profile
 
 * [Portfolio](https://tamtr89.github.io/Tran.Portfolio/) - 💓
